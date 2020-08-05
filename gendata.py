@@ -30,4 +30,4 @@ def gen_file(n):
     file1.close()
 
 
-gen_file(100)
+gen_file(500)
